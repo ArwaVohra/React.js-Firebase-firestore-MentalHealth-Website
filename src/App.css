@@ -1,6 +1,150 @@
-.App {
-  text-align: center;
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .bg-primary {
+  /* background-color: #C8AD7F !important; */
+  background-color:   #d4b895 !important;
+  
 }
+
+.text-primary{
+  color :#d4b895 !important;
+  
+}
+
+
+.btn{
+  outline: none;
+}
+
+.checked {
+  color: orange;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.before-content {
+  margin-top: 40px;
+}
+
+.Signupclass-text {
+  border: none;
+  outline: none;
+}
+
+
+.dropdowns {
+  position: relative;
+}
+/* bg-dark text-light */
+.titles {
+  background-color: #d4b895;
+}
+
+.whites {
+  background-color: white;
+}
+
+.tfonts {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px !important;
+}
+
+
+.aboutfont {
+  font-size:21px;
+  background: #d4b895;
+
+}
+
+
+.back{
+  background-color: #d4b895 !important;
+}
+
+.bgg {
+  background: #d4b895 !important; 
+  /* background-color: black; */
+}
+
+
+
+.size{
+  font-size:larger;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#map {
+	position:absolute;
+	bottom: 0%;
+	top: 100%;
+	width: 10%;
+	height: 4px !important;
+ 
+	
+}
+
+.aboutimg {
+  width: 100%;
+}
+
+
+
+.signup-img {
+  /* background: url('map-unsplash.jpg'); */
+  height: 18px;
+  background-position: bottom;
+   
+}
+
+
+
+.foot {
+  color:coral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .App-logo {
   height: 40vmin;
